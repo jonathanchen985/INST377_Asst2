@@ -1,5 +1,7 @@
 /* Sourced used:
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Image_gallery */
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Image_gallery
+https://google.com */
+
 
 const displayedImage = document.querySelector('.displayed-img');
 const thumbBar = document.querySelector('.thumb-bar');
